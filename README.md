@@ -1,10 +1,10 @@
-# Android Modules - Compartilhando Libs
+# Android Modules 
 Para explicar o conteúdo dos projetos MyLib e MyProject foram pubicados os seguintes vídeos abaixo.
 A ideia do projeto MyLib é mostrar como compartilhar o código fonte da sua aplicação: fragments, activities, interfaces e classes entre suas diversas soluções.
-https://youtu.be/aYbLnUgz1Xk
 
-# Video 1
+# Video 1 - Compartilhando Libs
 Veja como criar uma função para extrair os números de uma string e compartilhá-la entre diferentes projetos. Neste caso criaremos a função extractNumbers dentro da classe StringHelper e compartilharemos na app myFramework.
+https://youtu.be/aYbLnUgz1Xk
 
 # Video 2 - Compartilhando Activities
 Veja como integrar o código fonte de uma janela "Activity" com outros projetos. Simularemos um processo de autenticação onde o usuário autenticado será retornado de forma serializada e capturado após a finalização da Activity.

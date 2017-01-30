@@ -14,5 +14,5 @@ https://youtu.be/WW4gpI8WRFI
 Neste vídeo veremos como jogar a janela de login dentro de um Fragment e realizar a integração da simulação do processo de autenticação através de eventos. Criaremos uma Interface ILoginEventHandle com um método OnLogin retornando o usuário autenticado.
  https://youtu.be/QTbo0e1LDA4
 
-Os vídeo servirão de base para ajudá-lo a modularizar suas aplicações Android.
+Os vídeos servirão de base para ajudá-lo a modularizar suas aplicações Android.
 
